@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Button Person -->
+    <item
+        android:id="@+id/action_profile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profile"
+        app:showAsAction="always" />
+
+    <!-- Button Grid/List -->
+    <item
+        android:id="@+id/action_toggle_view"
+        android:icon="@drawable/baseline_view_list_24"
+        android:title="Toggle View"
+        app:showAsAction="always" />
+
+</menu>

@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">MyManhwa</string>
+
+    <string name="manhwa_title">Judul Manhwa</string>">
+    <string name="manhwa_description">Deskripsi Manhwa</string>
+
+    <string-array name="data_name">
+        <item>Omniscient Readers Viewpoint</item>
+        <item>Overgeared</item>
+        <item>Return of the Blossoming Blade</item>
+        <item>Solo Leveling</item>
+        <item>The Swordmasters Son</item>
+        <item>The Greatest Estate Developer</item>
+        <item>Revenge of the Baskerville Bloodhound</item>
+        <item>The Frozen Player Returns</item>
+        <item>The Academys Undercover Professor</item>
+        <item>Eleceed</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kim Dokja tidak menganggap dirinya sebagai tokoh utama dalam hidupnya. Sesuai dengan nama yang diberikan orang tuanya, dia adalah seorang penyendiri yang hobinya hanya membaca novel web. Selama lebih dari satu dekade, dia telah hidup secara virtual melalui Yoo Joonghyuk, karakter utama dari novel web Three Ways to Survive the Apocalypse (TWSA). Melalui Joonghyuk, Dokja telah mengalami sendiri cobaan berulang kali mengalami kemunduran waktu, untuk mencari akhir dari “skenario” yang mengancam jiwa yang memaksa orang untuk memerankan narasi demi hiburan “Rasi Bintang” yang seperti dewa.</item>
+        <item>Shin Youngwoo (a.k.a. Grid), seorang pria yang tidak beruntung dalam hidup dan pemain level rendah dalam game VR populer “Satisfy,” menemukan item kuat yang membuatnya mendapatkan gelar kelas legendaris yang langka: “Penerus Pagma.” Dia sekarang menjadi pandai besi terampil yang dapat menempa senjata unik dan melengkapi perlengkapan paling kuat dalam game. Grid memutuskan untuk menggunakan kemampuan barunya untuk meraih ketenaran dan kekayaan, tetapi ketika keberadaannya mulai menimbulkan masalah di Satisfy, dia menyadari bahwa hidup sebagai legenda mungkin lebih dari yang dia harapkan.</item>
+        <item>Ketika Cheongmyeong dari Sekte Gunung Hua terbangun seratus tahun di masa depan, kenangan terakhirnya adalah pertempuran berdarah melawan Pemimpin Sekte Iblis, Cheonma yang jahat. Pertempuran tersebut hampir menjadi akhir dari Sepuluh Sekte Besar di Tiongkok kuno, ketika Cheongmyeong mengakhiri perjuangan keras dengan mengalahkan Cheonma. Segera setelah itu, dia menyerah pada luka-lukanya, dipenuhi dengan penyesalan atas kemenangan mereka yang sangat mudah. Namun, semua tidak hilang, karena dia terbangun untuk kesempatan kedua dalam hidupnya. Terkejut mendapati Sekte Gunung Hua yang dicintainya hanya tinggal bayangan di masa kini, Cheongmyeong memulai perjalanan untuk mengembalikan Gunung Hua ke masa kejayaannya.</item>
+        <item>Sepuluh tahun yang lalu, “Gerbang” muncul dan menghubungkan dunia nyata dengan dunia sihir dan monster. Untuk memerangi binatang-binatang keji ini, orang-orang biasa menerima kekuatan super dan dikenal sebagai “Pemburu”. Sung Jin-Woo yang berusia dua puluh tahun adalah salah satu Pemburu tersebut, tetapi dia dikenal sebagai “Yang Terlemah di Dunia”, karena kekuatannya yang menyedihkan dibandingkan dengan E-Rank yang sangat kecil. Namun, ia tetap berburu monster tanpa lelah di Gates peringkat rendah untuk membayar tagihan medis ibunya.</item>
+        <item>Jin Runcandel ditakdirkan untuk menjadi kepala klan ahli pedang. Namun, terlepas dari usaha terbaiknya, dia dibuang karena keahlian pedangnya yang buruk. Meskipun Jin akhirnya membuat kontrak dengan dewa Solderet dan terbebas dari kutukan yang menghalangi kemampuannya, dia menemui akhir yang cukup disayangkan. Namun, pada saat berikutnya, dia terbangun sebagai bayi, jauh sebelum tragedi yang dialaminya dimulai. Berbekal kesempatan kedua dan beberapa kekuatan baru, Jin bersumpah untuk memenuhi takdirnya dan menjadi ahli pedang terbaik.</item>
+        <item>Tidak ada sampah dunia yang lebih besar dari Lloyd Frontera. Dia adalah putra tertua, namun yang dia lakukan hanyalah minum-minum dan mengintimidasi orang lain, menghabiskan sedikit kekayaan keluarganya. Ksatria Fronteras, Javier Asrahan, ditakdirkan untuk menjadi ahli pedang yang terkenal, dan keluarga Lloyd akan menghadapi kematian yang menyedihkan karena seluruh tanah mereka hancur karena hutang yang tidak dapat diatasi.</item>
+        <item>Dibesarkan untuk membunuh seperti sekumpulan anjing yang setia, anak-anak Baskerville telah merenggut nyawa yang tak terhitung jumlahnya sebagai sekelompok pembunuh yang menakutkan. Meskipun menjadi anak haram yang dijauhi oleh induknya, Bikir melayani keluarganya dengan setia, hanya untuk menemui ajalnya di tangan ayahnya. Namun, ketika ia terlahir kembali dengan kesempatan kedua dalam hidup, Bikir, berbekal ingatan dan pengetahuan tentang masa lalunya, bersumpah untuk bangkit dan membalaskan dendamnya. Kali ini, dia siap untuk menggigit tangan yang memberi makan.</item>
+        <item>Ketika Seo Junho dan teman-temannya mengorbankan diri mereka untuk mengalahkan ratu es, mereka mengira bahwa mereka telah memulihkan kedamaian di Bumi. Namun setelah 25 tahun membeku, Junho mencair hanya untuk menemukan bahwa sembilan lantai lagi muncul tanpa kehadirannya, hanya satu yang telah dibersihkan! Sebagai satu-satunya yang memegang kunci untuk membersihkan lantai berikutnya dan mencairkan teman-temannya, Junho harus melangkah maju sekali lagi. Tapi apakah pahlawan ini sudah terlalu lama berada dalam hibernasi untuk menghadapi musuh-musuh baru yang menakutkan di dunia?</item>
+        <item>Tidak ada yang tahu nama atau wajah aslinya, tetapi ia telah mendapatkan ketenaran global dengan banyak nama samaran-dari Gerrard hingga Machiavelli. Identitas terbarunya adalah Ludger Cherish, seorang profesor muda dan berbakat di Akademi Ceoren yang bergengsi. Namun, apa yang terlihat seperti pekerjaan mengajar yang mudah ternyata tidak seperti itu. Ludger Cherish yang asli jauh lebih dari yang terlihat, terjerat dalam perkumpulan rahasia dengan motif yang tidak jelas. Melakukan apa pun untuk melindungi identitasnya, pria dengan banyak wajah ini harus berjalan di antara dua kelompok yang berlawanan yang akan membunuhnya jika melakukan kesalahan sekecil apa pun.</item>
+        <item>Jiwoo adalah seorang pemuda baik hati yang memanfaatkan refleks kilat seekor kucing untuk secara diam-diam membuat dunia menjadi tempat yang lebih baik-satu demi satu anak kecil yang diselamatkan atau hewan peliharaan yang diasuhnya. Kayden adalah seorang agen rahasia dalam pelarian, yang mendapati dirinya terjebak dalam tubuh seekor...um...kucing tua yang sangat gemuk dan berbulu. Bersama-sama, dipersenjatai dengan kekuatan super Jiwoo dan Kayden yang sangat pintar, mereka keluar untuk melawan kekuatan-kekuatan yang membiarkan kejahatan menguasai dunia ini. Itu jika mereka bisa bertahan cukup lama untuk menyelesaikan pekerjaan.</item>
+
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://cdn.myanimelist.net/images/anime/1549/144140.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/3/303099.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/275074.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/3/222295.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/264252.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/1/290131.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/280319.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/262892.jpg</item>
+        <item>https://cdn.myanimelist.net/images/manga/2/265658.jpg</item>
+        <item>https://myanimelist.net/images/manga/1/260660.jpg</item>
+    </string-array>
+
+    <string-array name="manhwa_titles">
+        <item>Omniscient Readers Viewpoint</item>
+        <item>Overgeared</item>
+        <item>Return of the Blossoming Blade</item>
+        <item>Solo Leveling</item>
+        <item>The Swordmasters Son</item>
+        <item>The Greatest Estate Developer</item>
+        <item>Revenge of the Baskerville Bloodhound</item>
+        <item>The Frozen Player Returns</item>
+        <item>The Academys Undercover Professor</item>
+        <item>Eleceed</item>
+    </string-array>
+
+    <string-array name="manhwa_authors">
+        <item>Sing Shong</item>
+        <item>Park Saenal</item>
+        <item>BIGA</item>
+        <item>Chugong</item>
+        <item>Hoo Joon</item>
+        <item>Lee Hyunmin, Kim Ki Baek</item>
+        <item>Ant Studio</item>
+        <item>D-dart</item>
+        <item>Im Hwajeon</item>
+        <item>Son Jeho, Zhena</item>
+    </string-array>
+
+    <string-array name="manhwa_genres">
+        <item>Action, Fantasy</item>
+        <item>Action, Adventure</item>
+        <item>Martial Arts, Action</item>
+        <item>Action, Fantasy</item>
+        <item>Fantasy, Action</item>
+        <item>Comedy, Fantasy</item>
+        <item>Action, Revenge</item>
+        <item>Action, Fantasy</item>
+        <item>Fantasy, Mystery</item>
+        <item>Action, Supernatural</item>
+    </string-array>
+
+    <string-array name="manhwa_published_years">
+        <item>2020</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2018</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2018</item>
+    </string-array>
+
+    <string name="detailInformation">Detail Information</string>
+    <string name="author">Author</string>
+    <string name="genre">Genre</string>
+    <string name="published">Tahun Rilis</string>
+
+
+</resources>
